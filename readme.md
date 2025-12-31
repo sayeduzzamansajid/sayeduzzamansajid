@@ -64,7 +64,7 @@ Currently, I am improving my full-stack skills by building real-world projects a
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayeduzzaman&show_icons=true&theme=default" />
 </p>
 
@@ -74,11 +74,11 @@ Currently, I am improving my full-stack skills by building real-world projects a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeduzzaman&layout=compact&theme=default" />
-</p>
+</p> -->
 
 ---
 
-## 📌 Pinned Projects
+<!-- ## 📌 Pinned Projects
 
 Check out my pinned repositories to see:
 - Client-side projects
@@ -89,9 +89,9 @@ Each project includes:
 - Live project link  
 - Technologies used  
 - Features overview  
-- Setup guide   -->
+- Setup guide   --> -->
 
-<!-- ---
+<!-- <!-- --- -->
 
 ⭐ **Thank you for visiting my profile!**  
 Feel free to connect or explore my projects.
