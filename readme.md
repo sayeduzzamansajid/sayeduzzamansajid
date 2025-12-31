@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/your-banner-image.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/kVphRZ1p/Screenshot-2025-12-31-190908.png" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Sayeduzzaman</h1>
@@ -50,10 +50,10 @@ Currently, I am improving my full-stack skills by building real-world projects a
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
-- 🐙 **GitHub:** https://github.com/sayeduzzaman  
-- 📧 **Email:** yourprofessionalemail@gmail.com  
-- 📍 **Location:** Bangladesh  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sayeduzzaman-sajid
+- 🐙 **GitHub:** https://github.com/sayeduzzamansajid 
+- 📧 **Email:** sayeduzzamansajid9@gmail.com  
+- 📍 **Location:** Chittagong | Bangladesh  
 
 ---
 
@@ -73,7 +73,7 @@ Currently, I am improving my full-stack skills by building real-world projects a
 
 ---
 
-## 📌 Pinned Projects
+<!-- ## 📌 Pinned Projects
 
 Check out my pinned repositories to see:
 - Client-side projects
@@ -84,9 +84,9 @@ Each project includes:
 - Live project link  
 - Technologies used  
 - Features overview  
-- Setup guide  
+- Setup guide   -->
 
----
+<!-- --- -->
 
 ⭐ **Thank you for visiting my profile!**  
 Feel free to connect or explore my projects.
