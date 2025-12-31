@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/kVphRZ1p/Screenshot-2025-12-31-190908.png" alt="Banner" />
+  <img src="https://i.ibb.co.com/Ff0Y018/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.jpg" alt="Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Sayeduzzaman</h1>
