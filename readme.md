@@ -23,7 +23,7 @@ Currently, I am improving my full-stack skills by building real-world projects a
 ## 🚀 Current Activities
 
 - 🌱 Exploring **Next.js**
-- 🛠 Working on a **Tourism Website**
+- 🛠 Working on a **Coaching Management System**
 - 📚 Strengthening backend skills with **Node.js & MongoDB**
 - 🔍 Learning best practices for clean and maintainable code
 
@@ -58,6 +58,11 @@ Currently, I am improving my full-stack skills by building real-world projects a
 ---
 
 ## 📊 GitHub Stats
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=sayeduzzamansajid&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayeduzzaman&show_icons=true&theme=default" />
@@ -73,7 +78,7 @@ Currently, I am improving my full-stack skills by building real-world projects a
 
 ---
 
-<!-- ## 📌 Pinned Projects
+## 📌 Pinned Projects
 
 Check out my pinned repositories to see:
 - Client-side projects
@@ -86,7 +91,7 @@ Each project includes:
 - Features overview  
 - Setup guide   -->
 
-<!-- --- -->
+<!-- ---
 
 ⭐ **Thank you for visiting my profile!**  
 Feel free to connect or explore my projects.
