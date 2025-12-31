@@ -89,7 +89,7 @@ Each project includes:
 - Live project link  
 - Technologies used  
 - Features overview  
-- Setup guide   --> -->
+- Setup guide   --> 
 
 <!-- <!-- --- -->
 
