@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co.com/Ff0Y018/Black-Flatlay-Photo-Motivational-Finance-Quote-Facebook-Cover.jpg" alt="Banner" />
-</p>
+</p> -->
 
 <h1 align="center">👋 Hi, I'm Sayeduzzaman</h1>
 
