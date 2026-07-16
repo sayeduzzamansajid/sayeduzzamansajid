@@ -153,6 +153,12 @@ Feel free to connect or explore my projects. <br/>
 
 </div>
 
+</div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=grediant&height=100&section=footer"/>
+</p>
+
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayeduzzaman&show_icons=true&theme=default" />
