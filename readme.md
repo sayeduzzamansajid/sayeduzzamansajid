@@ -20,9 +20,10 @@ Building scalable, user-focused web applications
 </div>
 
 ---
-<p align="center">
+
+<!-- <p align="center">
   <img src="./sayeduzzaman-profile-grid.svg" alt="Profile SVG" width="100%">
-</p>
+</p> -->
 
 ---
 
