@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <text x="40" y="90"
+        font-family="monospace"
+        font-size="36"
+        fill="#58a6ff">
+    <tspan>Building something meaningful</tspan>
+    <tspan id="cursor">|</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.01s"
+             begin="0s"
+             fill="freeze"/>
+
+    <animate attributeName="textLength"
+             from="0"
+             to="520"
+             dur="4s"
+             fill="freeze"/>
+  </text>
+
+  <text x="40" y="145"
+        font-family="monospace"
+        font-size="22"
+        fill="#8b949e">
+    Full Stack • Competitive Programming • AI
+  </text>
+
+  <rect x="40" y="170"
+        width="0"
+        height="6"
+        rx="3"
+        fill="#58a6ff">
+    <animate attributeName="width"
+             values="0;600;0"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="0"
+        width="800"
+        height="220"
+        fill="none"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+  <animate xlink:href="#cursor"
+           attributeName="opacity"
+           values="1;0;1"
+           dur="0.8s"
+           repeatCount="indefinite"/>
+</svg>
