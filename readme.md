@@ -2,7 +2,19 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,2,3,5,7,8,22,21,24,36,20,24,25,30&height=250&section=header&text=Sayeduzaaman%20Sajid&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Passionate%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50"/>
 </div>
-
+<!-- <div align="center">
+  <picture>
+    <source
+      srcset="assets/dark.svg"
+      media="(prefers-color-scheme: dark)">
+    <source
+      srcset="assets/light.svg"
+      media="(prefers-color-scheme: light)">
+    <img
+      src="assets/light.svg"
+      alt="Animated Banner">
+  </picture>
+</div> -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Softwere+Engineer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
@@ -22,15 +34,15 @@
   <a href="https://codeforces.com/profile/sayeduzzaman_sajid">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
+</a>
+<a href="https://leetcode.com/u/sayeduzzamansajid/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 <a href="https://www.hackerrank.com/profile/sayeduzzaman">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 <a href="https://www.codechef.com/users/void_function">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/sayeduzzamansajid/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
   <a href="https://www.facebook.com/sayeduzzaman.sajid/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
