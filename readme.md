@@ -34,15 +34,15 @@
 <a href="https://leetcode.com/u/sayeduzzamansajid/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-  <a href="https://codeforces.com/profile/sayeduzzaman_sajid">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-</a>
-<a href="https://www.hackerrank.com/profile/sayeduzzaman">
+  <a href="https://www.hackerrank.com/profile/sayeduzzaman">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 <a href="https://www.codechef.com/users/void_function">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/sayeduzzaman_sajid">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
   <a href="https://www.facebook.com/sayeduzzaman.sajid/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
