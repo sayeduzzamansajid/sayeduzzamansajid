@@ -94,16 +94,13 @@ Building scalable, user-focused web applications
 
 ---
 
-## 📜 Life.cpp
+## <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="18"> Life.cpp
 
 ```cpp
 #include <life.h>
-#include <dreams.h>
-#include <future.h>
+using namespace reflection;
 
-using namespace Life;
-
-reflection journey(efforts)
+Outcome existence(Discipline efforts)
 {
     if (life.begin())
     {
@@ -116,27 +113,26 @@ reflection journey(efforts)
         set(Goals);
     }
 
-    while (!life.end())
-    {
+    while ( !life.end() ){
         try{
             if (efforts > 0){
-                while (!Success){
+                while ( !Success ){
                     identify(Fault);
                     learn(Lesson);
-                    retry();
+                    retry(efforts);
                 }
                 return Happiness;
             }
             else
                 throw Failure;
-        }catch (exception& e)
-          {
-            e.accept();
+        }
+        catch (Exception &event){
+            Exception.accept(event);
             continue;
-          }
+        }
     }
 
-    return home(Jannah);
+    return Jannah(iman, deeds, efforts) ? "Heaven" : "Hell" ;
 }
 ```
 
