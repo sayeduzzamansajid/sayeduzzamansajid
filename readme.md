@@ -100,6 +100,11 @@ Building scalable, user-focused web applications
 #include <life.h>
 using namespace reflection;
 
+bool Jannah( Aqeedah& iman, Tawakkul& reliance, Discipline& efforts)
+{
+    return Allah.wills();
+}
+
 Outcome existence(Aqeedah iman, Tawakkul reliance, Discipline efforts)
 {
     if (life.begin())
@@ -127,7 +132,7 @@ Outcome existence(Aqeedah iman, Tawakkul reliance, Discipline efforts)
                 throw life.failure();
         }
         catch (Exception &event){
-            Exception.accept(event);
+            life.accept(event);
             continue;
         }
     }
