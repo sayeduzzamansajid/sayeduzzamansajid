@@ -94,6 +94,54 @@ Building scalable, user-focused web applications
 
 ---
 
+## 📜 Life.cpp
+
+```cpp
+#include <life.h>
+#include <dreams.h>
+#include <future.h>
+
+using namespace Life;
+
+reflection journey(efforts)
+{
+    if (life.begin())
+    {
+        believe(Allah);
+        follow(Deen);
+        choose(Purpose);
+        inherit(Dreams);
+        build(Character);
+        trust(Process);
+        set(Goals);
+    }
+
+    while (!life.end())
+    {
+        try{
+            if (efforts > 0){
+                while (!Success){
+                    identify(Fault);
+                    learn(Lesson);
+                    retry();
+                }
+                return Happiness;
+            }
+            else
+                throw Failure;
+        }catch (exception& e)
+          {
+            e.accept();
+            continue;
+          }
+    }
+
+    return home(Jannah);
+}
+```
+
+---
+
 ## 👨‍💻 About Me
 
 I am a passionate **Software Engineer** with a strong interest in building modern, scalable, and responsive web applications.  
