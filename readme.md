@@ -100,7 +100,7 @@ Building scalable, user-focused web applications
 #include <life.h>
 using namespace reflection;
 
-Outcome existence(Discipline efforts)
+Outcome existence(Aqeedah iman, Tawakkul reliance, Discipline efforts)
 {
     if (life.begin())
     {
@@ -116,15 +116,15 @@ Outcome existence(Discipline efforts)
     while ( !life.end() ){
         try{
             if (efforts > 0){
-                while ( !Success ){
+                while ( !life.success() ){
                     identify(Fault);
                     learn(Lesson);
                     retry(efforts);
                 }
-                return Happiness;
+                life.happiness();
             }
             else
-                throw Failure;
+                throw life.failure();
         }
         catch (Exception &event){
             Exception.accept(event);
@@ -132,7 +132,7 @@ Outcome existence(Discipline efforts)
         }
     }
 
-    return Jannah(iman, deeds, efforts) ? "Heaven" : "Hell" ;
+    return Jannah(iman, reliance, efforts) ? Heaven : Hell;
 }
 ```
 
