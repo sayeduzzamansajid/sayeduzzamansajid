@@ -104,7 +104,9 @@ bool Jannah( Aqeedah& iman, Tawakkul& reliance, Discipline& efforts)
 {
     if ( !iman.valid() || iman.hasShirk() )
         return false;
-    
+
+    Allah.witnesses(reliance);
+    Allah.accepts(efforts);
     return Allah.wills();
 }
 
