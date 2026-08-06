@@ -102,6 +102,9 @@ using namespace reflection;
 
 bool Jannah( Aqeedah& iman, Tawakkul& reliance, Discipline& efforts)
 {
+    if ( !iman.valid() || iman.hasShirk() )
+        return false;
+    
     return Allah.wills();
 }
 
@@ -111,19 +114,24 @@ Outcome existence(Aqeedah iman, Tawakkul reliance, Discipline efforts)
     {
         believe(Allah);
         follow(Deen);
+
         choose(Purpose);
         inherit(Dreams);
+
         build(Character);
         trust(Process);
+
         set(Goals);
     }
 
     while ( !life.end() ){
         try{
             if (efforts > 0){
-                while ( !life.success() ){
-                    identify(Fault);
-                    learn(Lesson);
+                while ( !life.success() && life.hasTime() ){
+                    auto lesson = identifyFault(efforts);
+                    
+                    learn(lesson);
+                    improve(efforts);
                     retry(efforts);
                 }
                 life.happiness();
