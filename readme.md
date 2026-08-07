@@ -94,6 +94,11 @@ Building scalable, user-focused web applications
 
 ---
 
+<!-- <p align="center">
+  <img src="./life-code.gif" alt="Life — executable metaphor" width="820" length="1000">
+</p> -->
+
+
 ## <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="18"> Life.cpp
 
 ```cpp
