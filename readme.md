@@ -16,7 +16,7 @@
   </picture>
 </div> -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;Softwere+Engineer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A0;Aspiring+Softwere+Engineer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <br>
