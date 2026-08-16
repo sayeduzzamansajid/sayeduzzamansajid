@@ -164,7 +164,7 @@ Outcome existence(Aqeedah iman, Tawakkul reliance, Discipline efforts)
 
 ## 👨‍💻 About Me
 
-I am a passionate **Software Engineer** with a strong interest in building modern, scalable, and responsive web applications.  
+I am a aspiring **Software Engineer** with a strong interest in building modern, scalable, and responsive web applications.  
 I enjoy working with both frontend and backend technologies to create complete solutions.  
 Currently, I am improving my full-stack skills by building real-world projects and learning advanced web technologies.
 
