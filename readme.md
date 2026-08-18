@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://x.com/sayeduzzaman_">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img height="28" src="https://cdn-icons-png.flaticon.com/512/2496/2496110.png"><img src="https://img.shields.io/badge/Twitter-47A9E8?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
   
 </div>
