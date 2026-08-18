@@ -179,6 +179,7 @@ Currently, I am improving my full-stack skills by building real-world projects a
 
 --- -->
 
+<!--
 ## 🧰 Skills
 
 **Languages**
@@ -225,6 +226,46 @@ Currently, I am improving my full-stack skills by building real-world projects a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" height="36" alt="GitHub Actions" title="GitHub Actions"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="36" height="36" alt="ESLint" title="ESLint"/> &nbsp;
+-->
+
+## 🧰 Skills
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-222?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-222?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-222?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-222?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-222?style=for-the-badge&logo=node.js)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-222?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-222?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-222?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-222?style=for-the-badge&logo=next.js)
+![Vite](https://img.shields.io/badge/Vite-222?style=for-the-badge&logo=vite)
+![Tailwind](https://img.shields.io/badge/Tailwind-222?style=for-the-badge&logo=tailwindcss)
+![MUI](https://img.shields.io/badge/MUI-222?style=for-the-badge&logo=mui)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-222?style=for-the-badge)
+### ⚙️ Backend & API
+![NestJS](https://img.shields.io/badge/NestJS-222?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-222?style=for-the-badge&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-222?style=for-the-badge&logo=graphql)
+![Django](https://img.shields.io/badge/Django-222?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-222?style=for-the-badge&logo=flask)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-222?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-222?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-222?style=for-the-badge&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firebase-222?style=for-the-badge&logo=firebase)
+### 🚀 DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-222?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-222?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-222?style=for-the-badge&logo=nginx)
+![Git](https://img.shields.io/badge/Git-222?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github)
+![Jest](https://img.shields.io/badge/Jest-222?style=for-the-badge&logo=jest)
+![ESLint](https://img.shields.io/badge/ESLint-222?style=for-the-badge&logo=eslint)
+
 
 <!-- ---
 
