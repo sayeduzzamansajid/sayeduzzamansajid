@@ -15,9 +15,13 @@
       alt="Animated Banner">
   </picture>
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A0;Aspiring+Softwere+Engineer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" alt="Typing SVG" />
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A0;Aspiring+Softwere+Engineer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" />
+</p>
 
 <br>
 
