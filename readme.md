@@ -1,6 +1,6 @@
 <div align="center">
  <!--  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,2,3,5,7,8,22,21,24,36,20,24,25,30&height=250&section=header&text=Sayeduzaaman%20Sajid&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50"/> -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Sayeduzzaman%20Sajid%20&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Problem%20Solver&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="1000%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Sayeduzzaman%20Sajid%20&fontSize=58&fontColor=fff&animation=blink&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Problem%20Solver&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="1000%"/>
 </div> 
 
 <!-- <div align="center">
@@ -21,7 +21,7 @@
 </div> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer+%F0%9F%93%8A;Problem+Solver+%F0%9F%A7%A0;Aspiring+Softwere+Engineer+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%8C%B1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;Aspiring+Softwere+Engineer;Life+Long+Learner" />
 </p>
 
 <br>
