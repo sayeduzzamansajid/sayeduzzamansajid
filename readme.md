@@ -2,7 +2,7 @@
 <!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14,15,16,2,3,5,7,8,22,21,24,36,20,24,25,30&height=250&section=header&text=Sayeduzaaman%20Sajid&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descAlign=50"/>
 </div> -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Sayeduzzaman%20Sajid%20&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Competitive%20Programmer%20%7C%20Backend%20Developer&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="1000%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:FF6B35,30:F7C948,60:00D4AA,100:6C63FF&height=240&section=header&text=Sayeduzzaman%20Sajid%20&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20Problem%20Solver&descSize=20&descAlignY=62&stroke=ffffff&strokeWidth=1" width="1000%"/>
 
 <div align="center">
 <!-- <div align="center">
