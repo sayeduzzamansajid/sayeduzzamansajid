@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
  <a href="https://vjudge.net/user/sayeduzzaman">
-  <img src="https://img.shields.io/badge/VJudge-2F80ED?style=for-the-badge&logo=V&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VJudge-333333?style=for-the-badge&logo=V&logoColor=white"/>
 </a>
   <a href="https://www.facebook.com/sayeduzzaman.sajid/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
