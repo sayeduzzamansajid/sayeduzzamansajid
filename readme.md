@@ -28,39 +28,36 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sayeduzzaman-sajid/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sayeduzzamansajid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-<a href="https://leetcode.com/u/sayeduzzamansajid/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-   <a href="https://vjudge.net/user/sayeduzzaman">
-  <img src="https://img.shields.io/badge/VJudge-333333?style=for-the-badge&logo=V&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/u/sayeduzzamansajid/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://vjudge.net/user/sayeduzzaman">
+    <img src="https://img.shields.io/badge/VJudge-333333?style=flat-square&logo=V&logoColor=white"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/sayeduzzaman">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-<a href="https://www.codechef.com/users/void_function">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black"/>
+  </a>
+  <a href="https://www.codechef.com/users/void_function">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://codeforces.com/profile/sayeduzzaman_sajid">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
- <a href="https://v0-sayeduzzaman-sajid.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://v0-sayeduzzaman-sajid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4B5563?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.facebook.com/sayeduzzaman.sajid/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/sayeduzzaman.sajid/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://x.com/sayeduzzaman_">
-    <img height="28" src="https://cdn-icons-png.flaticon.com/512/2496/2496110.png"><img src="https://img.shields.io/badge/Twitter-47A9E8?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-  
+  <a href="https://x.com/sayeduzzaman_"> <img height="20" src="https://cdn-icons-png.flaticon.com/512/2496/2496110.png"><img src="https://img.shields.io/badge/Twitter-47A9E8?style=flat-square&logo=twitter&logoColor=white"/> </a>
 </div>
 
 <div  align="center">
