@@ -33,11 +33,11 @@
   <a href="mailto:sayeduzzamansajid@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-   <a href="https://v0-sayeduzzaman-sajid.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <a href="https://leetcode.com/u/sayeduzzamansajid/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+   <a href="https://vjudge.net/user/sayeduzzaman">
+  <img src="https://img.shields.io/badge/VJudge-333333?style=for-the-badge&logo=V&logoColor=white"/>
 </a>
   <a href="https://www.hackerrank.com/profile/sayeduzzaman">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
@@ -48,8 +48,8 @@
   <a href="https://codeforces.com/profile/sayeduzzaman_sajid">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
- <a href="https://vjudge.net/user/sayeduzzaman">
-  <img src="https://img.shields.io/badge/VJudge-333333?style=for-the-badge&logo=V&logoColor=white"/>
+ <a href="https://v0-sayeduzzaman-sajid.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-4B5563?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
   <a href="https://www.facebook.com/sayeduzzaman.sajid/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
