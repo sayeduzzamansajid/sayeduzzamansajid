@@ -312,13 +312,13 @@ Currently, I am improving my full-stack skills by building real-world projects a
 
 **Commit activity**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayeduzzamansajid&theme=gotham&hide_border=true" width="100%" alt="Activity graph"/>
+<img src="https://github-readme-activity-graph-sayeduzzaman.vercel.app/graph?username=sayeduzzamansajid&theme=gotham&hide_border=true" width="100%" alt="Activity graph"/>
 
 <br>
 <!-- 
 **3D contribution**
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayeduzzamansajid&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=a371f7&point=d8b4fe&area=true&area_color=a371f7&title_color=e6edf3&days=31&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph-sayeduzzaman.vercel.app/graph?username=sayeduzzamansajid&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=a371f7&point=d8b4fe&area=true&area_color=a371f7&title_color=e6edf3&days=31&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayeduzzamansajid&theme=tokyo-night)
